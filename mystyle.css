@@ -13,4 +13,7 @@ ul.nav li{
     padding: 10px;
     background-color:#FBFBCF;
     color:#333;
+    text-decoration:none;
   }
+ul.nav li a:hover{
+  background=color:#000;
